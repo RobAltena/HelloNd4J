@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <nd4j.version>1.0.0-alpha</nd4j.version>
+        <nd4j.version>1.0.0-beta3</nd4j.version>
     </properties>
 
     <dependencies>
